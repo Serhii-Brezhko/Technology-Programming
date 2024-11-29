@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>My Image Page</title>
+</head>
+<body>
+    <img src="images2/image3.jpg" alt="Image 1">
+    <img src="images2/image2.png" alt="Image 2">
+</body>
+</html>
